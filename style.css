@@ -1,0 +1,73 @@
+/*
+ Theme Name:   restauranttheme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     _tk-master
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Poiret+One);
+
+body{
+	background-color: #F44336;
+	padding-top: 20px
+}
+
+img[class*="wp-image-"]{
+	width: 400px;
+	height: 300px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	background-color: #D32F2F;
+}
+.navbar-default .navbar-nav>li>a{
+	color:white;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+background-color: #F44336;
+}
+
+
+.h1, h1, .navbar-default .navbar-brand, .h2, h2, a{
+	color:white;
+	font-family: 'Montserrat', sans-serif;
+}
+p{
+	color:#FFCDD2;
+	font-family:'Poiret One', cursive;
+	font-size: 20px;
+}
+#navbar-collapse{
+	padding-top: 5px;
+	
+}
+
+.navbar-default .navbar-brand{
+	padding-top: 20px;
+}
+.col-sm-12{
+	padding-top:32px;
+}
+
+.jumbotron p{
+	color:#727272;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
