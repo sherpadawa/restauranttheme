@@ -11,6 +11,25 @@
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  twenty-fifteen-child
 */
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+    background-color:  #a77bc1;
+    color:white;
+    direction: ltr;
+    color: #ccc;
+    font: 400 13px/32px "Open Sans",sans-serif;
+    height: 32px;
+    position:fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-width: 600px;
+    z-index: 99999;
+    text-align: center;
+ }
+
+
+
+
 @import url(https://fonts.googleapis.com/css?family=Montserrat|Poiret+One);
 
 
@@ -43,19 +62,17 @@ p{
 	font-size: 20px;
 }
 #navbar-collapse{
-	padding-top: 5px;
+	padding-top: 25px;
 	
 }
 
 .navbar-default .navbar-brand{
-	padding-top: 20px;
+	padding-top: 35px;
 	font-family: 'Lobster', cursive;
 	font-size: 30px;
 	color:#FF4081;
 }
-.col-sm-12{
-	padding-top:5px;
-}
+
 
 .jumbotron p{
 	color:#727272;
@@ -66,13 +83,10 @@ p{
 	color: white;
 }
 
-
-
-
-
-
-
-
-
-
+.navbar-default .navbar-nav>li>a{
+	color:white;
+}
+img{
+	width:50px ;
+}
 
