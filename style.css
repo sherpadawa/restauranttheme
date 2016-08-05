@@ -35,7 +35,7 @@
 
 body{
 	background-color: #F44336;
-	padding-top: 45px
+	padding-top: 50px
 }
 
 img[class*="wp-image-"]{
@@ -46,7 +46,6 @@ img[class*="wp-image-"]{
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
 	background-color: #D32F2F;
 }
-
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
 	background-color:#F44336 ;
@@ -62,7 +61,7 @@ p{
 	font-size: 20px;
 }
 #navbar-collapse{
-	padding-top: 15px;
+	padding-top: 20px;
 	
 }
 
