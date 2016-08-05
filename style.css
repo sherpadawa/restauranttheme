@@ -35,7 +35,7 @@
 
 body{
 	background-color: #F44336;
-	padding-top: 40px
+	padding-top: 45px
 }
 
 img[class*="wp-image-"]{
@@ -62,7 +62,7 @@ p{
 	font-size: 20px;
 }
 #navbar-collapse{
-	padding-top: 25px;
+	padding-top: 15px;
 	
 }
 
@@ -87,6 +87,6 @@ p{
 	color:white;
 }
 img{
-	width:50px ;
+	width:500px ;
 }
 
